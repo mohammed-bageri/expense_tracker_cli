@@ -1,0 +1,16 @@
+{
+  "1": {
+    "id": 1,
+    "description": "test desc",
+    "amount": 1200,
+    "category": null,
+    "date": "2024-09-09 13:56:19 +0300"
+  },
+  "2": {
+    "id": 2,
+    "description": "test desc",
+    "amount": 1200,
+    "category": "general",
+    "date": "2024-09-09 13:56:50 +0300"
+  }
+}
